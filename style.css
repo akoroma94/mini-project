@@ -62,7 +62,7 @@ nav {
 
 .logo__img {
   width: 40px;
-  margin-top 8px;
+  margin-top: 8px;
 }
 
 .logo__text {
@@ -116,7 +116,7 @@ header {
 .course__selection {
   font-family: "Space Mono", monospace;font-weight: bold;
   color: #727892
-  letter-spacing: 0.1px;
+  letter-spacing 0.1px;
 }
 
 .course__title {
@@ -135,7 +135,7 @@ header {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  margin-bottom 30px;
+  margin-bottom: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -310,13 +310,13 @@ footer {
   
   */
 
-  @media (max-width: 1024px;) {
+  @media (max-width: 1024px) {
     .section__description--para {
       font-size: 20px;
     }
   }
 
-  @media (max-width: 768px;) {
+  @media (max-width: 768px) {
     a {
       font-size: 16px;
     }
